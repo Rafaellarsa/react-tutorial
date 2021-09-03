@@ -2,9 +2,12 @@
 
 This project was made by following the [official React tutorial](https://reactjs.org/tutorial/tutorial.html) ([Portuguese version](https://pt-br.reactjs.org/tutorial/tutorial.html)).
 
-## To-do list
+## Extra features
 
 - Display the location for each move in the format (col, row) in the move history list.
+
+## To-do list
+
 - Bold the currently selected item in the move list.
 - Rewrite Board to use two loops to make the squares instead of hardcoding them.
 - Add a toggle button that lets you sort the moves in either ascending or descending order.
